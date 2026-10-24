@@ -1,17 +1,17 @@
-# Hi, I'm Nikos 👋
+# Hi, I'm Nikos
  
 **Junior Software Developer** based in Athens, Greece.
  
 I'm a Computer Science student at Metropolitan College who enjoys building things end to end, from REST APIs and databases to mobile and web front ends. I'm currently looking for a junior developer role where I can contribute and keep learning.
  
-## 🛠️ Tech I work with
+## Tech I work with
  
 **Languages:** Java · JavaScript · Python · C · SQL · HTML & CSS
 **Frameworks & libraries:** React Native (Expo) · Node.js / Express · Java Swing / JavaFX · TensorFlow.js
 **Databases:** MySQL / MariaDB
 **Tools:** Git & GitHub · VS Code · NetBeans · XAMPP
  
-## 🚀 Featured projects
+## Featured projects
  
 | Project | What it is | Stack |
 |---|---|---|
@@ -21,8 +21,8 @@ I'm a Computer Science student at Metropolitan College who enjoys building thing
 | [Family Tree](https://github.com/NikosKps/Family-Tree) | Reads family relationships from CSV and answers how two people are related | Java |
 | [Binary Tree](https://github.com/NikosKps/Binary-Tree) | Binary tree with insertion, deletion, traversals and rotations | Java |
  
-## 📫 Get in touch
+## Get in touch
  
 - Email: [nikos.kps@outlook.com](mailto:nikos.kps@outlook.com)
-- LinkedIn: *www.linkedin.com/in/nikolaos-kapsalas-1b1b91358*
+- LinkedIn: www.linkedin.com/in/nikolaos-kapsalas-1b1b91358
  
